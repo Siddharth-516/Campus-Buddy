@@ -102,9 +102,10 @@ Campus Buddy simplifies campus digital infrastructure by providing a single, int
 
 ## 👥 Team
 
-- Your Name – Role
-- Member 2 – Role
-- Member 3 – Role
+- Dev Pratap Singh
+- Siddharth Gupta
+- Ramdayal
+- Ritesh Poswal
 
 ---
 
